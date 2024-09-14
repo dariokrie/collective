@@ -3,7 +3,7 @@
 Discover the latest in music with our up-to-date agenda of events, featuring artists and upcoming performances. Stay tuned to explore newly released tracks, artist spotlights, and all things music-related.
 
 ## Production
-https://collective-347.pages.dev/
+https://tailwind-switzerland.pages.dev/
 
 ## Stage (Pre-Production)
 https://collective-umber.vercel.app/
