@@ -1,10 +1,8 @@
-<!-- eslint-disable prettier/prettier -->
 <script setup lang="ts">
 import { ref } from 'vue';
 
 const isOpen = ref(false);
 </script>
-<!-- eslint-disable prettier/prettier -->
 <template>
   <div class="min-h-screen flex flex-col md:flex-row bg-gradient-to-br from-blue-100 to-blue-300">
     <!-- Mobile Navbar -->
@@ -74,7 +72,6 @@ const isOpen = ref(false);
     </div>
   </div>
 </template>
-<!-- eslint-disable prettier/prettier -->
 <style scoped>
 .slide-enter-active, .slide-leave-active {
   transition: transform 0.3s ease;
